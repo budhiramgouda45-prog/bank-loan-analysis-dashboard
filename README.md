@@ -8,7 +8,7 @@ I developed an interactive Bank Loan Analysis Dashboard using Microsoft Excel to
 
 ## Business Problem
 
-The bank lacked a clear and consolidated view of:
+The bank didnt have any clear view of:
 
 * Total loan applications
 * Total funded amount
