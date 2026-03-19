@@ -66,7 +66,6 @@ To solve this problem, I built a dynamic and interactive dashboard in Excel that
 
 * Focus on reducing bad loans
 * Strengthen loan approval checks:
-
   * Verify income sources
   * Review salary slips
   * Check credit score history
@@ -75,8 +74,7 @@ To solve this problem, I built a dynamic and interactive dashboard in Excel that
 
 ##Conclusion
 
-This dashboard helps the bank:
-
+This dashboard helps the bank to know the below informaton.
 * Monitor loan performance
 * Identify growth trends
 * Reduce financial risk
