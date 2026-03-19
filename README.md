@@ -84,9 +84,7 @@ This dashboard helps the bank to know the below informaton.
 
 ##  Dashboard Preview
 
-### 🔹 Full Dashboard
-
-![Dashboard](images/dashboard.png)
+https://github.com/budhiramgouda45-prog/bank-loan-analysis-dashboard/blob/main/Summary%20page.png
 
 ![Loan Analysis](images/loan_analysis.png)
 
