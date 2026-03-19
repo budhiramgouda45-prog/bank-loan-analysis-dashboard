@@ -84,10 +84,9 @@ This dashboard helps the bank to know the below informaton.
 
 ##  Dashboard Preview
 
-https://github.com/budhiramgouda45-prog/bank-loan-analysis-dashboard/blob/main/Summary%20page.png
+<img width="830" height="433" alt="Summary page" src="https://github.com/user-attachments/assets/e7793ec1-5a6f-41bb-93a1-d78784fa2895" />
 
-![Loan Analysis](images/loan_analysis.png)
 
-### 🔹 KPI & Trends
+<img width="578" height="302" alt="Overview page" src="https://github.com/user-attachments/assets/f59b1c11-a198-4b67-abd7-6bd1b7d6ee02" />
 
-![KPI Trends](images/kpi_trends.png)
+
